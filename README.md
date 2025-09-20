@@ -9,6 +9,7 @@
 > A curated collection of awesome image-to-image translation. 
 
 ## Table of Contents
+- [2025](./docs/2025.md)
 - [2024](./docs/2024.md)
 - [2023](./docs/2023.md)
 - [2022](./docs/2022.md)
